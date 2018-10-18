@@ -1,6 +1,6 @@
 # Restaurant Review App
 
-This app  is created as part of the Udacity Nanodegree "Mobile Web Specialist". The project is divided into three stages.
+This app  is created as part of the Udacity Nanodegree "Front End Web Development. The project is divided into three stages.
 
 ![Screenshot](Screenshot.png)
 
@@ -49,7 +49,7 @@ This app  is created as part of the Udacity Nanodegree "Mobile Web Specialist". 
 ## Data from node server
 
 ```
-$ git clone https://github.com/udacity/mws-restaurant-stage-3.git
+$ git clone https://sunnypaul393.github.io/Restuarant-Review-App-Udacity.git
 $ cd mws-restaurant-stage-3
 $ npm i
 $ npm i sails -g
